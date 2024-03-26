@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "WitchBoz"
 include(":app")
- 
+include(":core")
+include(":core:domain")
+include(":core:data")
+include(":core:model")
+include(":core:common")
+include(":core:network")
